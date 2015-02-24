@@ -33,6 +33,7 @@ class ViewController: UIViewController {
         messageLabel.hidden = false
         sendMailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
         enterMessageTextField.resignFirstResponder()
+        // This is a comment.
         
     }
 
